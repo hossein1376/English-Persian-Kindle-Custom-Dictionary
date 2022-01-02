@@ -1,10 +1,10 @@
 # English-Persian Kindle Custom Dictionary
- A Free English-Persian Dictionary for Kindle. Plus, sorce files and a guide to make any custom dictionaries.
- Download the .src folder content. I've added some guides as in comments. Feel free to ask any questions you may got.
+ This is a Free English-Persian Dictionary for Kindle. Plus, here you can find the sorce files and a brief guide to make any custom dictionaries.
+ In order to make your own dictionary, download the .src folder content. I've added some inside and tips as in 'comments'. Feel free to ask any questions you may have.
  
-Download the Kindle Previewer from: (This replaces the old mobigen) https://www.amazon.com/Kindle-Previewer/b?ie=UTF8&node=21381691011
+Download the Kindle Previewer from: https://www.amazon.com/Kindle-Previewer/b?ie=UTF8&node=21381691011
 
-Download Notepad++  from: (Suggested for editing the files and codes) https://notepad-plus-plus.org/downloads/
+Download Notepad++ (Suggested for editing the files and codes) from: https://notepad-plus-plus.org/downloads/
  
 
 # دیکشنری انگلیسی به فارسی برای کتاب خوان های آمازون کیندل
@@ -19,7 +19,9 @@ Download Notepad++  from: (Suggested for editing the files and codes) https://no
 
 # نحوه استفاده:
 فایل English-Persian Dictionary v2.0.mobi را دانلود کرده و در داخل حافظه داخلی کتاب خوان آمازون کیندل خود بریزید.
+
 در تنظیمات، بخش زبان و لغت نامه، آن را به عنوان دیکشنری پیش فرض خود انتخاب کنید.
+
 در داخل کتاب، با لمس و نگه داشتن دست خود بر روی کلمه مورد نظر (یا گاهی اصطلاح)، ترجمه را مشاهده کنید.
  
 # نکات مهم:
