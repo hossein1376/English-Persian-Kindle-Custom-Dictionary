@@ -20,11 +20,13 @@ Download Notepad++ (Suggested for editing the files and codes) from: https://not
 **ورژن ۲.۰**
 
 # نحوه استفاده:
-فایل English-Persian Dictionary v2.0.mobi را دانلود کرده و در داخل حافظه داخلی کتاب خوان آمازون کیندل خود بریزید.
+فایل English-Persian Dictionary v2.0.mobi را دانلود کرده و به حافظه داخلی آمازون کیندل خود منتقل کنید.
 
 در تنظیمات، بخش زبان و لغت نامه، آن را به عنوان دیکشنری پیش فرض خود انتخاب کنید.
 
 در داخل کتاب، با لمس و نگه داشتن دست خود بر روی کلمه مورد نظر (یا گاهی اصطلاح)، ترجمه را مشاهده کنید.
+ 
+![alt text](https://raw.githubusercontent.com/hossein1376/English-Persian-Kindle-Custom-Dictionary/b7f68983676af13b36b9990583ca0ec468260811/sample.jpg)
  
 # نکات مهم:
 ■ دیتابیس اصلی و اولیه این لغت نامه، از منبع MHM Advance English-Persian Dictionary است که به رایگان در اینرنت قابل دسترسی است.
