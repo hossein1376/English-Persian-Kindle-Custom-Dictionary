@@ -1,0 +1,46 @@
+﻿<?xml version="1.0"?>
+<package version="2.0" xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId">
+  <metadata>
+    <dc:title>Dictionary Title</dc:title>
+    <dc:creator opf:role="aut">Your Name</dc:creator>
+    <dc:language>en-us</dc:language> <!-- Your preferred language. Enter the code based on the languages code table-->
+    <meta name="cover" content="my-cover-image"/>
+    <x-metadata>
+      <DictionaryInLanguage>en-us</DictionaryInLanguage> <!-- Your preferred language. Enter the code based on the languages code table-->
+      <DictionaryOutLanguage>fa-ir</DictionaryOutLanguage> <!-- Your preferred language. Enter the code based on the languages code table-->
+      <DefaultLookupIndex>default</DefaultLookupIndex> <!-- The is the 'idx:entry name' mentioned in the content.html -->
+    </x-metadata>
+  </metadata>
+  <manifest>
+    <!-- Cover image. Totally optional.
+    <item href="cover.jpg" id="cover" media-type="image/jpg" />  -->
+	
+	<!-- Words. -->
+	<item id="content" href="content.html" media-type="application/xhtml+xml"/>
+	
+	<!-- I suggest breaking down the bulk file into 2 or 4 files (or even more) for faster results in the Kindle Previewer. Like this:
+	<item id="content1" href="content1.html" media-type="application/xhtml+xml"/>
+    <item id="content2" href="content2.html" media-type="application/xhtml+xml"/>
+	. . . .
+	-->
+	
+  </manifest>
+  <spine>
+    <!-- Cover image, if you have one
+    <itemref idref="cover" />  -->
+	
+    <!-- Words.  -->
+	<itemref idref="content"/>
+	<!-- Reference them the same as you did above
+    <itemref idref="content1"/>
+	<itemref idref="content2"/>
+	-->
+  </spine>
+  <guide>
+    <reference type="index" title="IndexName" href="content.html"/>
+	<!-- The same...
+    <reference type="index" title="IndexName" href="content1.html"/>
+	<reference type="index" title="IndexName" href="content2.html"/>
+	-->
+  </guide>
+</package>
