@@ -1,5 +1,7 @@
 # English-Persian Kindle Custom Dictionary
- This is a Free English-Persian Dictionary for Kindle. Plus, here you can find the sorce files and a brief guide to make any custom dictionaries.
+ This is a Free English-Persian Dictionary for Kindle.
+ 
+ Plus, here you can find the sorce files and a brief guide to make any custom dictionaries.
  In order to make your own dictionary, download the .src folder content. I've added some insights and tips as in 'comments'. Feel free to ask any questions you may have.
  
 Download the Kindle Previewer from: https://www.amazon.com/Kindle-Previewer/b?ie=UTF8&node=21381691011
@@ -49,7 +51,7 @@ Download Notepad++ (Suggested for editing the files and codes) from: https://not
 
 بهبود inflection های موجود
 
-اضافه شده inflection برای افعال
+اضافه شدن inflection برای افعال
 
 بهبود املا، ترتیب و عنوان کلمات ثبت شده
 
