@@ -1,2 +1,50 @@
 # English-Persian Kindle Custom Dictionary
- An English-Persian Dictionary for Kindle. Plus, sorce files and guide  to make any custom dictionaries.
+ A Free English-Persian Dictionary for Kindle. Plus, sorce files and a guide to make any custom dictionaries.
+ Download the .src folder content. I've added some guides as in comments. Feel free to ask any questions you may got.
+ 
+Download the Kindle Previewer from: (This replaces the old mobigen) https://www.amazon.com/Kindle-Previewer/b?ie=UTF8&node=21381691011
+
+Download Notepad++  from: (Suggested for editing the files and codes) https://notepad-plus-plus.org/downloads/
+
+
+# دیکشنری انگلیسی به فارسی برای کتاب خوان های آمازون کیندل
+۱۵۰ هزار ورودی کلمه و اصطلاح
+
+رایگان
+
+ورژن 1.0
+
+نحوه استفاده:
+فایل English-Persian Dictionary.mobi را دانلود کرده و در داخل کتاب خوان کیندل خود بریزید.
+در تنظیمات، بخش زبان و لغت نامه، همین دیکشنری را پیش فرض خود انتخاب کنید.
+در کتاب با لمس و نگه‌داشتن دست خود بر روی کلمه (یا گاهی اصطلاح) مورد نظر، ترجمه را مشاهده کنید.
+
+نکات مهم:
+
+■ این دیکشنری از منابع رایگان موجود بر روی اینترنت جمع آوری و ساخته شده است. در نسخه‌های بعدی سعی بر آن خواهد بود که کیفیت ترجمه و تعداد کلمات افزایش یابد اما در حال حاضر من تقریبا هیچ دخالتی در کلملات و ترجمه این دیکشنری نداشته ام.
+استفاده و انتشار این لغت‌نامه رایگان است و کمک در جهت بهبود آن باعث افزایش کیفیت لغت نامه برای استفاده همگان میشود.
+
+
+□ در حال حاضر به دلیل عدم پشتیبانی آمازون، باید متن فارسی را از "چپ به راست" بخوانید، همانگونه که انگلیسی را میخوانید. به عنوان مثال:
+
+به شدن ضمیمه ==> ضمیمه شدن به
+
+مکمل زاویه ==> زاویه مکمل
+
+□ تا قبل از اضافه شدن قابلیت inflection، دیکشنری ممکن است معنی شکل‌های مختلف و متفاوت بعضی کلمات را به درستی نمایش ندهد.
+( dog در برابر dogs یا dog's یا 'dogs
+شکل ed یا ing گرفته افعال )
+ به منظور حل این مشکل، باید وقت و انرژی زیادی گذاشته شود و نیاز به کمک هست. 
+
+
+# اهداف:
+○ اضافه کردن ویرگول‌های جا افتاده و افزایش خوانایی ترجمه (به زودی)
+
+○ نمایش صحیح متن فارسی به صورت از راست به چپ (به زودی)
+
+○ افزودن inflection کلمات
+
+○ افزودن کلمات و اصطلاحات، بهبود ترجمه
+
+○ حذف کلمات و اصطلاحات غیرکاربردی(؟)
+
