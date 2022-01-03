@@ -12,13 +12,12 @@
      <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   </head>
 
-  <body dir = "rtl"> <!-- This is where we put the words. 'dir' is placed here due to a right-to-left language, Feel free to replace it with a simple <body> -->
+  <body> <!-- This is where we put the words. Replace the values which are marked with a * before and after them! -->
     <mbp:frameset>
-     <idx:entry name="default" scriptable="yes" spell="yes"><idx:orth value="Word"><b>Word</b></idx:orth>
-	 <p> Definition </p></idx:entry>
-	 <idx:entry name="default" scriptable="yes" spell="yes"><idx:orth value="Another Word"><b>Another Word</b></idx:orth>
-	 <p> Its definition </p></idx:entry>
-	 
+     <idx:entry name="default" scriptable="yes" spell="yes"><idx:orth value="*Word*"><b>*Word*</b>  <!-- The word itself -->
+     <idx:infl><idx:iform value="*First Inflection*"><idx:iform value="*Second Inflection*"></idx:infl></idx:orth>  <!-- Its inflections -->
+     <p> *Definition* </p></idx:entry>  <!-- The definition -->
+ 
      <!-- Follow the same style for all of your words.
 	 Note that the idx:entry name (which is named "default" here), must have been stated exactly the same in the .opf file -->
   </mbp:frameset>
