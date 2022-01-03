@@ -11,7 +11,7 @@
       <DefaultLookupIndex>default</DefaultLookupIndex>
     </x-metadata>
   </metadata>
-  <manifest>
+  <manifest> <!-- I break down bulk of the words into 4 files -->
     <item id="content1" href="content1.html" media-type="application/xhtml+xml"/>
     <item id="content2" href="content2.html" media-type="application/xhtml+xml"/>
     <item id="content3" href="content3.html" media-type="application/xhtml+xml"/>
@@ -19,14 +19,14 @@
   </manifest>
   <spine>
     <itemref idref="content1"/>
-	<itemref idref="content2"/>
-	<itemref idref="content3"/>
-	<itemref idref="content4"/>
+    <itemref idref="content2"/>
+    <itemref idref="content3"/>
+    <itemref idref="content4"/>
   </spine>
   <guide>
     <reference type="index" title="IndexName" href="content1.html"/>
-	<reference type="index" title="IndexName" href="content2.html"/>
-	<reference type="index" title="IndexName" href="content3.html"/>
-	<reference type="index" title="IndexName" href="content4.html"/>
+    <reference type="index" title="IndexName" href="content2.html"/>
+    <reference type="index" title="IndexName" href="content3.html"/>
+    <reference type="index" title="IndexName" href="content4.html"/>
   </guide>
 </package>
