@@ -13,16 +13,16 @@
   </metadata>
   <manifest>
     <!-- Cover image. Totally optional.
-    <item href="cover.jpg" id="cover" media-type="image/jpg" />  -->
+        <item href="cover.jpg" id="cover" media-type="image/jpg" />  -->
 	
-	<!-- Words. -->
+    <!-- Words. -->
 	<item id="content" href="content.html" media-type="application/xhtml+xml"/>
 	
-	<!-- I suggest breaking down the bulk file into 2 or 4 files (or even more) for faster results in the Kindle Previewer. Like this:
+    <!-- I suggest breaking down the bulk file into 2 or 4 files (or even more) for faster results in the Kindle Previewer. Like this:
 	<item id="content1" href="content1.html" media-type="application/xhtml+xml"/>
         <item id="content2" href="content2.html" media-type="application/xhtml+xml"/>
 	. . . .
-	-->
+    -->
 	
   </manifest>
   <spine>
@@ -35,7 +35,7 @@
     <!-- Reference their name the same way you did above
         <itemref idref="content1"/>
 	<itemref idref="content2"/>
-	-->
+    -->
   </spine>
   <guide>
         <reference type="index" title="IndexName" href="content.html"/>
@@ -43,6 +43,6 @@
     <!-- The same...
         <reference type="index" title="IndexName" href="content1.html"/>
 	<reference type="index" title="IndexName" href="content2.html"/>
-	-->
+    -->
   </guide>
 </package>
