@@ -74,5 +74,3 @@ Download Notepad++ (Suggested for editing the files and codes) from: https://not
 ● حذف کلمات و اصطلاحات غیرکاربردی(؟)
 
 ● ساخت لغت نامه برای زبان های دیگر
-
-<meta name="google-site-verification" content="lwQsbt9n8kSEwuXDDTyaJ4fo52SqNwWErQaE6u2Qe0g" />
