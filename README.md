@@ -15,6 +15,8 @@ Download Notepad++ (Suggested for editing the files and codes) from: https://not
 
 **پشتیبانی از قابلیت inflection یا صرف افعال و اسامی**
 
+**پشتیبانی از نوشتار راست به چپ**
+
 **رایگان**
  
 **ورژن ۲.۰**
