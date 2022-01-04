@@ -22,7 +22,7 @@ Edit the opf file and insert the dictionary name, the author name, input and out
 
 Reference the content.html file(s) in the manifest, spine and guide section based on the template.
 
-Akso, you can add cover image and more, follow the instructions inside the "Publishing Guide for Creating Dictionaries".
+Also, you can add cover image and more, follow the instructions inside the "Publishing Guide for Creating Dictionaries".
 
 # Finishing the project:
 
