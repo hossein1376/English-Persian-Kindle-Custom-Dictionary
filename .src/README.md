@@ -1,4 +1,4 @@
-Follow the instructions inside the content.html and dict.opf files. (You can use Notepad++ for editing them.)
+Follow the instructions here and inside the content.html and dict.opf files. (You can use Notepad++ for editing them.)
 Read the Amazon's own "Publishing Guide for Creating Dictionaries" if you need more insight.
 
 # Content.html
