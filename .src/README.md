@@ -13,7 +13,9 @@ The defined word/expression and its inflections are placed between the <‌idx:o
 
 Inflections are placed between the <‌idx:infl‌> and </idx:infl> tags. Each inflection itself is put between the two quotation mark inside the <idx:iform value=""‌> and it ends with the </idx:iform> tag.
 
-The definition goes right after the </idx:orth> tag. I had inserted a <‌p‌> tag for better readability
+The definition goes right after the </idx:orth> tag. I had inserted a <‌p‌> tag for better readability.
+
+If you're working with a big database, I suggest breaking down the html into smaller pieces for better and faster results.
 
 # dict.opf
 Edit the file and insert the dictionary name, the author name, input and output languages.
@@ -24,7 +26,7 @@ You also can add cover image and more, follow the instructions inside the "Publi
 
 # Finishing the project:
 
-Download and Install the Kindle Perviewer. (Put all the files you have made inside a single folder.)
+Download and Install the Kindle Perviewer. (Put all the files you have just made inside a single folder.)
 Open the .opf file with Kindle Perviwer and wait until the program does it's job.
 (If it's taking unsually long or it was finished too quickly, there's a possiblity that something has gone wrong.)
 Upon completion, you're going to be able to view your work. Finish your project by exporting it from File -> Export (ctrl+X in Windows) and export a .mobi file. Then, sideload it into your Kindle device.
