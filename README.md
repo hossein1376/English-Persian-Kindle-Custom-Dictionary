@@ -19,7 +19,7 @@ Download Notepad++ (Suggested for editing the files and codes) from: https://not
 
 **رایگان**
  
-**ورژن ۲.۰**
+**نسخه ۲.۰**
 
 # نحوه استفاده:
 فایل English-Persian Dictionary v2.0.mobi را دانلود کرده و به حافظه داخلی آمازون کیندل خود منتقل کنید.
@@ -55,13 +55,13 @@ Download Notepad++ (Suggested for editing the files and codes) from: https://not
 
 بهبود inflection های موجود
 
-اضافه شدن inflection برای افعال
+اضافه کردن inflection برای 500 فعل پرکاربرد
 
 بهبود املا، ترتیب و عنوان کلمات ثبت شده
 
 حذف پرانتز های گیج کننده جهت بهبود خوانایی
 
-اضافه شدن تعدادی کلمه جدید
+اضافه شدن کلمات جدید
 
 **تاریخ حدودی انتشار:**
 
