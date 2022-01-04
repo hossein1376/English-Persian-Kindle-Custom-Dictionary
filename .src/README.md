@@ -15,14 +15,14 @@ Inflections are placed between the <‌idx:infl‌> and </idx:infl> tags. Each i
 
 The definition goes right after the </idx:orth> tag. I had inserted a <‌p‌> tag for better readability.
 
-If you're working with a big database, I suggest breaking down the html into smaller pieces for better and faster results.
+If you're working with a big database, I suggest breaking down the html file into smaller pieces for better and faster results.
 
 # dict.opf
-Edit the file and insert the dictionary name, the author name, input and output languages.
+Edit the opf file and insert the dictionary name, the author name, input and output languages.
 
 Reference the content.html file(s) in the manifest, spine and guide section based on the template.
 
-You also can add cover image and more, follow the instructions inside the "Publishing Guide for Creating Dictionaries".
+Akso, you can add cover image and more, follow the instructions inside the "Publishing Guide for Creating Dictionaries".
 
 # Finishing the project:
 
