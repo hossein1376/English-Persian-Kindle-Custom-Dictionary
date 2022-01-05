@@ -87,6 +87,8 @@ Download Notepad++ (Suggested for editing the files and codes) from: https://not
 
 [Spanish-Persian Kindle Dictionary دیکشنری اسپانیایی به فارسی کیندل](https://github.com/hossein1376/Spanish-Persian-Kindle-Dictionary)
 
+[Finnish-Persian Kindle Dictionary دیکشنری فنلاندی به فارسی کیندل](https://github.com/hossein1376/Finnish-Persian-Kindle-Dictionary)
+
 #  پشتیبانی از من / Sponsoring Me
 این پروژه و تمام دیکشنری های داخل آن رایگان بوده و خواهد ماند. اگرچه به انجام رساندن این پروژه وقت و انرژی زیادی از من گرفته است و ادامه دادن و بهبود لغت نامه ها انرژی حتی بیشتری خواهد گرفت. درصورت تمایل به پشتیبانی از این پروژه و از من، آدرس کیف پول (کوین) های من را در زیر پیدا خواهید کرد.
 
