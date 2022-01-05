@@ -21,7 +21,7 @@ Download Notepad++ (Suggested for editing the files and codes) from: https://not
  
 **نسخه ۲.۱**
 
-# نحوه استفاده:
+## نحوه استفاده:
 فایل English-Persian Dictionary v2.1.mobi را دانلود کرده و به حافظه داخلی آمازون کیندل خود منتقل کنید.
 
 در تنظیمات، بخش زبان و لغت نامه، آن را به عنوان دیکشنری پیش فرض خود انتخاب کنید.
@@ -30,7 +30,7 @@ Download Notepad++ (Suggested for editing the files and codes) from: https://not
  
 ![alt text](https://raw.githubusercontent.com/hossein1376/English-Persian-Kindle-Custom-Dictionary/b7f68983676af13b36b9990583ca0ec468260811/sample.jpg)
  
-# نسخه ۲.۱
+## نسخه ۲.۱
 **تغییرات:**
 
 بهبود inflection های موجود
@@ -47,7 +47,7 @@ Download Notepad++ (Suggested for editing the files and codes) from: https://not
 
 1/5/2022
 
-# نکات مهم:
+## نکات مهم:
 ■ دیتابیس اصلی و اولیه این لغت نامه، از منبع MHM Advance English-Persian Dictionary است که به رایگان در اینرنت قابل دسترسی است.
 تبدیل به فرمت مناسب آمازون، اصلاح ترجمه، حذف و اضافه کردن کلمات و صرف، بهبود و انتشار لغت نامه توسط من انجام شده است. در آینده به مرور به انتشار نسخه های آتی ادامه خواهم داد.
 
@@ -66,15 +66,11 @@ Download Notepad++ (Suggested for editing the files and codes) from: https://not
 ■ در صورت تمایل به کمک در گسترش و بهبود این لغت نامه، میتوانید در پوشه db راهنمایی موردنیاز خود را پیدا کنید.
 در صورت وجود هرگونه سوالی، خوشحال به پاسخگویی خواهم بود.
 
-# نسخه بعدی؟
-
-
+## نسخه بعدی؟
 
 **تاریخ حدودی انتشار:**
 
-
-
-# اهداف فعلی و آینده:
+## اهداف فعلی و آینده:
 
 ●  پاکسازی و بهبود inflection کلمات و افعال
 
@@ -83,3 +79,6 @@ Download Notepad++ (Suggested for editing the files and codes) from: https://not
 ● حذف کلمات و اصطلاحات غیرکاربردی(؟)
 
 ● ساخت لغت نامه برای زبان های دیگر
+
+# سایر پروژه ها
+Russian-Persian Kindle Dictionary دیکشنری روسی به فارسی کیندل : https://github.com/hossein1376/Russian-Persian-Kindle-Dictionary
