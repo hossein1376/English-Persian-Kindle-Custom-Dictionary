@@ -92,7 +92,7 @@ Download Notepad++ (Suggested for editing the files and codes) from: https://not
 
 This project and all of its dictionaries are Free and will remain so forever. However, cleaning up the sources and building each one has taken a lot out of me. Furthermore, improving each dictionary and adding new lamguages will consume even more of my time and energy. If you're intrested in sponsering this project and me, here you can find my cryptocurrency wallet addressees. Thanks!
 
-Bitcoin: ![BitCoin](https://raw.githubusercontent.com/hossein1376/English-Persian-Kindle-Custom-Dictionary/main/.github/wa_bitcoin.png) 
-Ethereum : ![Ethereum](https://raw.githubusercontent.com/hossein1376/English-Persian-Kindle-Custom-Dictionary/main/.github/wa_ethereum.png) 
-USDT: ![USDT](https://raw.githubusercontent.com/hossein1376/English-Persian-Kindle-Custom-Dictionary/main/.github/wa_usdt.png) 
-LiteCoin: ![LiteCoin](https://raw.githubusercontent.com/hossein1376/English-Persian-Kindle-Custom-Dictionary/main/.github/wa_usdt.png) 
+Bitcoin: ![BitCoin](https://raw.githubusercontent.com/hossein1376/English-Persian-Kindle-Custom-Dictionary/main/.github/wa_bitcoin.png)
+Ethereum: ![Ethereum](https://raw.githubusercontent.com/hossein1376/English-Persian-Kindle-Custom-Dictionary/main/.github/wa_ethereum.png)
+USDT: ![USDT](https://raw.githubusercontent.com/hossein1376/English-Persian-Kindle-Custom-Dictionary/main/.github/wa_usdt.png)
+LiteCoin: ![LiteCoin](https://raw.githubusercontent.com/hossein1376/English-Persian-Kindle-Custom-Dictionary/main/.github/wa_usdt.png)
