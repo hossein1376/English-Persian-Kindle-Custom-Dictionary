@@ -81,6 +81,6 @@ Download Notepad++ (Suggested for editing the files and codes) from: https://not
 ● ساخت لغت نامه برای زبان های دیگر
 
 # سایر پروژه ها
-Russian-Persian Kindle Dictionary دیکشنری روسی به فارسی کیندل : https://github.com/hossein1376/Russian-Persian-Kindle-Dictionary
+[Russian-Persian Kindle Dictionary دیکشنری روسی به فارسی کیندل](https://github.com/hossein1376/Russian-Persian-Kindle-Dictionary)
 
-Swedish-Persian Kindle Dictionary دیکشنری سوئدی به فارسی کیندل : https://github.com/hossein1376/Swedish-Persian-Kindle-Dictionary 
+[Swedish-Persian Kindle Dictionary دیکشنری سوئدی به فارسی کیندل](https://github.com/hossein1376/Swedish-Persian-Kindle-Dictionary) 
