@@ -28,7 +28,7 @@ Download Notepad++ (Suggested for editing the files and codes) from: https://not
 
 در داخل کتاب، با لمس و نگه داشتن دست خود بر روی کلمه مورد نظر (یا گاهی اصطلاح)، ترجمه را مشاهده کنید.
  
-![alt text](https://raw.githubusercontent.com/hossein1376/English-Persian-Kindle-Custom-Dictionary/b7f68983676af13b36b9990583ca0ec468260811/sample.jpg)
+![Sample_Image](https://raw.githubusercontent.com/hossein1376/English-Persian-Kindle-Custom-Dictionary/b7f68983676af13b36b9990583ca0ec468260811/sample.jpg)
  
 ## نسخه ۲.۱
 **تغییرات:**
@@ -86,3 +86,13 @@ Download Notepad++ (Suggested for editing the files and codes) from: https://not
 [Swedish-Persian Kindle Dictionary دیکشنری سوئدی به فارسی کیندل](https://github.com/hossein1376/Swedish-Persian-Kindle-Dictionary)
 
 [Spanish-Persian Kindle Dictionary دیکشنری اسپانیایی به فارسی کیندل](https://github.com/hossein1376/Spanish-Persian-Kindle-Dictionary)
+
+#  پشتیبانی از من / Sponsoring Me
+این پروژه و تمام دیکشنری های داخل آن رایگان بوده و خواهد ماند. اگرچه به انجام رساندن این پروژه وقت و انرژی زیادی از من گرفته است و ادامه دادن و بهبود لغت نامه ها انرژی حتی بیشتری خواهد گرفت. درصورت تمایل به پشتیبانی از این پروژه و از من، آدرس کیف پول (کوین) های من را در زیر پیدا خواهید کرد.
+
+This project and all of its dictionaries are Free and will remain so forever. However, cleaning up the sources and building each one has taken a lot out of me. Furthermore, improving each dictionary and adding new lamguages will consume even more of my time and energy. If you're intrested in sponsering this project and me, here you can find my cryptocurrency wallet addressees. Thanks!
+
+Bitcoin: ![BitCoin](https://raw.githubusercontent.com/hossein1376/English-Persian-Kindle-Custom-Dictionary/main/.github/wa_bitcoin.png) 
+Ethereum : ![Ethereum](https://raw.githubusercontent.com/hossein1376/English-Persian-Kindle-Custom-Dictionary/main/.github/wa_ethereum.png) 
+USDT: ![USDT](https://raw.githubusercontent.com/hossein1376/English-Persian-Kindle-Custom-Dictionary/main/.github/wa_usdt.png) 
+LiteCoin: ![LiteCoin](https://raw.githubusercontent.com/hossein1376/English-Persian-Kindle-Custom-Dictionary/main/.github/wa_usdt.png) 
