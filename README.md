@@ -48,8 +48,14 @@ Download Notepad++ (Suggested for editing the files and codes) from: https://not
 1/5/2022
 
 ### نسخه بعدی؟
+**تغییرات:**
+
+اصلاحات و اضافه شدن inflection برای بیش از 1000 فعل
+
+اضافه شدن کلمات جدید
 
 **تاریخ حدودی انتشار:**
+تا پایان ژانویه 2022
 
 ## نکات مهم:
 ■ دیتابیس اصلی و اولیه این لغت نامه، از منبع MHM Advance English-Persian Dictionary است که به رایگان در اینرنت قابل دسترسی است.
