@@ -58,8 +58,8 @@ Download Notepad++ (Suggested for editing the files and codes) from: https://not
 تا پایان ژانویه 2022
 
 ## نکات مهم:
-■ دیتابیس اصلی و اولیه این لغت نامه، از منبع MHM Advance English-Persian Dictionary است که به رایگان در اینرنت قابل دسترسی است.
-تبدیل به فرمت مناسب آمازون، اصلاح ترجمه، حذف و اضافه کردن کلمات و صرف، بهبود و انتشار لغت نامه توسط من انجام شده است. در آینده به مرور به انتشار نسخه های آتی ادامه خواهم داد.
+■ دیتابیس اصلی و اولیه این لغت نامه، از منبع MHM Advance English-Persian Dictionary است که به رایگان در اینرنت قابل دسترسی است. منبع فعلی مورد استفاده لغت نامه را میتوانید در فولدر db پیدا کنید.
+تبدیل به فرمت مناسب آمازون، اصلاح ترجمه، حذف و اضافه کردن کلمات و صرف، بهبود و انتشار لغت نامه توسط من انجام شده است. در آینده به مرور به انتشار نسخه های آتی ادامه خواهم داد. 
 
 ■ استفاده و انتشار این لغت نامه کاملا **رایگان** است. امیدوارم این پروژه باعث افزایش کیفیت مطالعه همگان شود. 
 سعی من در فراهم سازی منبع مناسب، قابل استفاده و قابل اطمینان برای کتاب خوانی تمامی هم زبان هایم است. کمک شما عزیزان میتواند نقش پررنگی در رسیدن به این هدف داشته باشد.
@@ -98,12 +98,19 @@ Download Notepad++ (Suggested for editing the files and codes) from: https://not
 [Finnish-Persian Kindle Dictionary دیکشنری فنلاندی به فارسی کیندل](https://github.com/hossein1376/Finnish-Persian-Kindle-Dictionary)
 
 #  پشتیبانی از من / Sponsoring Me
-این پروژه و تمام دیکشنری های داخل آن رایگان بوده و خواهد ماند. اگرچه، به انجام رساندن این پروژه وقت و انرژی زیادی از من گرفته است و ادامه دادن و بهبود لغت نامه ها انرژی حتی بیشتری خواهد گرفت. در صورت تمایل به پشتیبانی از این پروژه و از من، آدرس کیف پول (کوین) های من را در زیر پیدا خواهید کرد.
+این پروژه و تمام دیکشنری های داخل آن رایگان بوده و خواهد ماند. اگرچه، به انجام رساندن این پروژه وقت و انرژی زیادی از من گرفته است و ادامه دادن و بهبود لغت نامه ها انرژی حتی بیشتری خواهد گرفت. در صورت تمایل به پشتیبانی از این پروژه و از من، آدرس کیف پول (کوین) های من را در زیر پیدا خواهید کرد. سپاس! 
 
-This project and all of its dictionaries are Free and will remain so forever. However, cleaning up the sources and building each dictionary has taken a lot out of me. Furthermore, improving each dictionary and adding new lamguages will consume even more of my time and energy. If you're intrested in sponsering this project and me, here you can find my cryptocurrency wallet addressees. Thanks!
+This project and all of its dictionaries are Free and will remain so forever. However, cleaning up the sources and building each dictionary has taken a lot out of me. Furthermore, improving each dictionary and adding new lamguages will consume even more of my time and energy. If you're intrested in sponsering this project and me, here you can find my cryptocurrency wallet addressees. Cheers!
 
-Bitcoin: ![BitCoin](https://raw.githubusercontent.com/hossein1376/English-Persian-Kindle-Custom-Dictionary/main/.github/wa_bitcoin.png)
-Ethereum: ![Ethereum](https://raw.githubusercontent.com/hossein1376/English-Persian-Kindle-Custom-Dictionary/main/.github/wa_ethereum.png)
 
-USDT: ![USDT](https://raw.githubusercontent.com/hossein1376/English-Persian-Kindle-Custom-Dictionary/main/.github/wa_usdt.png)
-LiteCoin: ![LiteCoin](https://raw.githubusercontent.com/hossein1376/English-Persian-Kindle-Custom-Dictionary/main/.github/wa_usdt.png)
+Ethereum: ![Ethereum](https://raw.githubusercontent.com/hossein1376/English-Persian-Kindle-Custom-Dictionary/main/.github/ethereum.png)
+0xcdcb6607f9e91117c6e9fc7fb110e9be21cef48c
+
+LiteCoin: ![LiteCoin](https://raw.githubusercontent.com/hossein1376/English-Persian-Kindle-Custom-Dictionary/main/.github/usdt.png)
+LScshkcjxsj5JvoaNesSqgdN4QBjsmqq2o
+
+Bitcoin: ![BitCoin](https://raw.githubusercontent.com/hossein1376/English-Persian-Kindle-Custom-Dictionary/main/.github/bitcoin.png)
+bc1q4tcp6vfw3wup344725aft46w6sulrw3pp2nl2d
+
+USDT: ![USDT](https://raw.githubusercontent.com/hossein1376/English-Persian-Kindle-Custom-Dictionary/main/.github/litecoin.png)
+TZHRrzHVPh7F7DhAvHtYHXbMidUZtiUg5R
