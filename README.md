@@ -19,10 +19,10 @@ Download Notepad++ (Suggested for editing the files and codes) from: https://not
 
 **رایگان**
  
-**نسخه ۲.۱**
+**نسخه ۲.۲**
 
 ## نحوه استفاده:
-فایل English-Persian Dictionary v2.1.mobi را از باکس بالا دانلود کرده و به حافظه داخلی آمازون کیندل خود منتقل کنید.
+فایل English-Persian Dictionary v2.2.mobi را از باکس بالا دانلود کرده و به حافظه داخلی آمازون کیندل خود منتقل کنید.
 
 در تنظیمات، بخش زبان و لغت نامه، آن را به عنوان دیکشنری پیش فرض خود انتخاب کنید.
 
@@ -30,35 +30,23 @@ Download Notepad++ (Suggested for editing the files and codes) from: https://not
  
 ![Sample_Image](https://raw.githubusercontent.com/hossein1376/English-Persian-Kindle-Custom-Dictionary/b7f68983676af13b36b9990583ca0ec468260811/sample.jpg)
  
-## نسخه ۲.۱
+## نسخه ۲.۲
 **تغییرات:**
+
+اضافه شدن کلمات جدید
 
 بهبود inflection های موجود
 
-اضافه کردن inflection برای بیش از 500 فعل پرکاربرد
-
 بهبود املا، ترتیب و عنوان کلمات ثبت شده
 
-حذف پرانتز های گیج کننده جهت بهبود خوانایی
+حذف پرانتز های اضافی جهت بهبود خوانایی
 
-اضافه شدن کلمات جدید
+اضافه کردن inflection برای بیش از 1500 فعل
 
-**تاریخ انتشار:**
-
-1/5/2022
-
-### نسخه بعدی؟
-**تغییرات:**
-
-اصلاحات و اضافه شدن inflection برای بیش از 1000 فعل
-
-اضافه شدن کلمات جدید
-
-**تاریخ حدودی انتشار:**
-تا پایان ژانویه 2022
+**تاریخ انتشار:** 01/13/2022
 
 ## نکات مهم:
-■ دیتابیس اصلی و اولیه این لغت نامه، از منبع MHM Advance English-Persian Dictionary است که به رایگان در اینرنت قابل دسترسی است. منبع فعلی مورد استفاده لغت نامه را میتوانید در فولدر db پیدا کنید.
+■ دیتابیس اصلی و اولیه این لغت نامه، از منبع MHM Advance English-Persian Dictionary بوده که به رایگان در اینرنت قابل دسترسی است. منبع فعلی مورد استفاده لغت نامه را میتوانید در فولدر db پیدا کنید.
 تبدیل به فرمت مناسب آمازون، اصلاح ترجمه، حذف و اضافه کردن کلمات و صرف، بهبود و انتشار لغت نامه توسط من انجام شده است. در آینده به مرور به انتشار نسخه های آتی ادامه خواهم داد. 
 
 ■ استفاده و انتشار این لغت نامه کاملا **رایگان** است. امیدوارم این پروژه باعث افزایش کیفیت مطالعه همگان شود. 
@@ -103,14 +91,14 @@ Download Notepad++ (Suggested for editing the files and codes) from: https://not
 This project and all of its dictionaries are Free and will remain so forever. However, cleaning up the sources and building each dictionary has taken a lot out of me. Furthermore, improving each dictionary and adding new lamguages will consume even more of my time and energy. If you're intrested in sponsering this project and me, here you can find my cryptocurrency wallet addressees. Cheers!
 
 
-Ethereum: ![Ethereum](https://raw.githubusercontent.com/hossein1376/English-Persian-Kindle-Custom-Dictionary/main/.github/ethereum.png)
-0xcdcb6607f9e91117c6e9fc7fb110e9be21cef48c
-
-LiteCoin: ![LiteCoin](https://raw.githubusercontent.com/hossein1376/English-Persian-Kindle-Custom-Dictionary/main/.github/usdt.png)
-LScshkcjxsj5JvoaNesSqgdN4QBjsmqq2o
+USDT: ![USDT](https://raw.githubusercontent.com/hossein1376/English-Persian-Kindle-Custom-Dictionary/main/.github/litecoin.png)
+TZHRrzHVPh7F7DhAvHtYHXbMidUZtiUg5R
 
 Bitcoin: ![BitCoin](https://raw.githubusercontent.com/hossein1376/English-Persian-Kindle-Custom-Dictionary/main/.github/bitcoin.png)
 bc1q4tcp6vfw3wup344725aft46w6sulrw3pp2nl2d
 
-USDT: ![USDT](https://raw.githubusercontent.com/hossein1376/English-Persian-Kindle-Custom-Dictionary/main/.github/litecoin.png)
-TZHRrzHVPh7F7DhAvHtYHXbMidUZtiUg5R
+LiteCoin: ![LiteCoin](https://raw.githubusercontent.com/hossein1376/English-Persian-Kindle-Custom-Dictionary/main/.github/usdt.png)
+LScshkcjxsj5JvoaNesSqgdN4QBjsmqq2o
+
+Ethereum: ![Ethereum](https://raw.githubusercontent.com/hossein1376/English-Persian-Kindle-Custom-Dictionary/main/.github/ethereum.png)
+0xcdcb6607f9e91117c6e9fc7fb110e9be21cef48c
