@@ -22,7 +22,7 @@ Download Notepad++ (Suggested for editing the files and codes) from: https://not
 **نسخه ۲.۲**
 
 ## نحوه استفاده:
-فایل English-Persian Dictionary v2.2.mobi را از باکس بالا دانلود کرده و به حافظه داخلی آمازون کیندل خود منتقل کنید.
+فایل [English-Persian Dictionary v2.2.mobi](https://github.com/hossein1376/English-Persian-Kindle-Custom-Dictionary/blob/main/English-Persian%20Dictionary%20v2.2.mobi?raw=true) را دانلود کرده و به حافظه داخلی آمازون کیندل خود منتقل کنید.
 
 در تنظیمات، بخش زبان و لغت نامه، آن را به عنوان دیکشنری پیش فرض خود انتخاب کنید.
 
