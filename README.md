@@ -48,9 +48,9 @@ Download Notepad++ (Suggested for editing the files and codes) from: https://not
 
 ## پروژه فعلی؛ اضافه کردن صرف برای بیش از 20 هزار فعل
 
-*درصد پیشرفت*: صفحه 20 از 1093 صفحه -- 1.83 درصد
+**درصد پیشرفت**: صفحه 35 از 1093 صفحه -- 3.2 درصد
 
-[**منبع**](https://pasttenses.com/verbs-list)
+*منبع:* https://pasttenses.com/verbs-list
 
 
 ## نکات مهم:
