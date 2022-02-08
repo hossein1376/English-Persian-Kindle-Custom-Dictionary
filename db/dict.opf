@@ -11,7 +11,7 @@
       <DefaultLookupIndex>default</DefaultLookupIndex>
     </x-metadata>
   </metadata>
-  <manifest> <!-- I break down bulk of the words into 4 files -->
+  <manifest> <!-- Break down the bulk of the words into smaller files. Preferably each under 5mb -->
     <item id="content1" href="content1.html" media-type="application/xhtml+xml"/>
     <item id="content2" href="content2.html" media-type="application/xhtml+xml"/>
     <item id="content3" href="content3.html" media-type="application/xhtml+xml"/>
