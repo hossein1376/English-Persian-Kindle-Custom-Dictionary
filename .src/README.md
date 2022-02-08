@@ -11,7 +11,7 @@ Note: whatever name you choose for it, it must be stated exactly the same in the
 
 The defined word/expression and its inflections are placed between the <‌idx:orth‌> and </idx:orth> tags.
 
-Inflections are placed between the <‌idx:infl‌> and </idx:infl> tags. Each inflection itself is put between the two quotation mark inside the <idx:iform value=""‌> and it ends with the </idx:iform> tag.
+Each inflection is placed inside <idx:iform value="" /> between the two quotation marks. Repeat this tag for as many inflections as there are.
 
 The definition goes right after the </idx:orth> tag. I had inserted a <‌p‌> tag for better readability.
 
