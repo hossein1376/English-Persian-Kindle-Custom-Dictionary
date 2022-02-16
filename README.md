@@ -1,8 +1,10 @@
 # English-Persian Kindle Custom Dictionary
- This is a Free English-Persian Dictionary for Kindle.
+ This is a Free English-Persian Dictionary for Amazon Kindle.
  
  Plus, here you can find the source files and a detailed guide to make any custom dictionary for yourself.
  In order to make a custom dictionary, download the .src folder content. I've added some insights and tips as in 'comments'. Feel free to ask any questions you may have.
+
+As of now, I have written a script for automating the data preparation task. Maybe I'll publish it at a later date.
  
 Download the Kindle Previewer from: https://www.amazon.com/Kindle-Previewer/b?ie=UTF8&node=21381691011
 
@@ -52,7 +54,7 @@ Download Notepad++ (Suggested for editing the files and codes) from: https://not
 منبع اصلی و در حال حاضر، مورد استفاده لغت نامه را میتوانید در فولدر [db](https://github.com/hossein1376/English-Persian-Kindle-Custom-Dictionary/tree/main/db) پیدا کنید. استفاده و انتشار **غیر تجاری** منبع کاملا مجاز و رایگان میباشد. اضافه شدن کلمات جدید و اضافه کردن صرف برای بیش از ۱۰ هزار کلمه و فعل، بهبود و اصلاح ترجمه، تبدیل به فرمت مناسب آمازون و انتشار لغت نامه توسط من انجام شده است. 
 
 ■ استفاده و انتشار این لغت نامه کاملا **رایگان** است. امیدوارم این پروژه باعث افزایش کیفیت مطالعه همگان شود. 
-سعی من در فراهم سازی منبع مناسب، قابل استفاده و قابل اطمینان برای کتاب خوانی تمامی هم زبان هایم است. کمک شما عزیزان میتواند نقش پررنگی در رسیدن به این هدف داشته باشد.
+سعی من در فراهم سازی منبع مناسب، قابل استفاده و قابل اطمینان برای کتاب خوانی تمامی هم زبان هایم است.
 
 ■ آمازون کیندل از نوشتار راست-به-چپ در دیکشنری های خود پشتیبانی نمیکند. برای جلوگیری از بدخوانی و نامرتبی من متون فارسی را از قبل، یک بار معکوس کرده ام تا در نهایت به شکل درست نمایش پیدا کنند (ایده از محمد‌علی افشار).
 در اکثر موارد این نباید مسئله خاصی ایجاد کند، اما در صورت بروز مشکل لطفا آن را گزارش کنید تا بررسی کنم.
