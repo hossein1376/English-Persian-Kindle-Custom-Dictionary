@@ -4,7 +4,7 @@
  Plus, here you can find the source files and a detailed guide to make any custom dictionary for yourself.
  In order to make a custom dictionary, download the .src folder content. I've added some insights and tips as in 'comments'. Feel free to ask any questions you may have.
 
-As of now, I have written a script for automating the data preparation task. Maybe I'll publish it at a later date.
+As of now (version 2.3 update), I have written a script for automating the data preparation task.
  
 Download the Kindle Previewer from: https://www.amazon.com/Kindle-Previewer/b?ie=UTF8&node=21381691011
 
