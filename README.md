@@ -21,12 +21,12 @@ Download Notepad++ (Suggested for editing the files and codes) from: https://not
 
 **ویژگی Enhanced Typesetting Support برای نمایش بهتر**
  
-**نسخه ۲.۳**
+**نسخه ۲.۴**
 
 **رایگان**
 
 ## نحوه استفاده:
-فایل [English-Persian Dictionary v2.3.mobi](https://github.com/hossein1376/English-Persian-Kindle-Custom-Dictionary/blob/main/English-Persian%20Dictionary%20v2.3.mobi?raw=true) را دانلود کرده و به حافظه داخلی آمازون کیندل خود منتقل کنید.
+فایل [English-Persian Dictionary v2.4.mobi](https://github.com/hossein1376/English-Persian-Kindle-Custom-Dictionary/blob/main/English-Persian%20Dictionary%20v2.4.mobi?raw=true) را دانلود کرده و به حافظه داخلی آمازون کیندل خود منتقل کنید.
 
 در تنظیمات، بخش زبان و لغت نامه، آن را به عنوان دیکشنری پیش فرض خود انتخاب کنید.
 
@@ -34,7 +34,7 @@ Download Notepad++ (Suggested for editing the files and codes) from: https://not
  
 ![Promo_Image](https://raw.githubusercontent.com/hossein1376/English-Persian-Kindle-Custom-Dictionary/main/promo.jpg)
  
-## **نسخه ۲.۳**
+## **نسخه ۲.۴**
 
 **تغییرات:**
 
@@ -46,7 +46,7 @@ Download Notepad++ (Suggested for editing the files and codes) from: https://not
 
 حذف پرانتز های اضافی و معانی تکراری
 
-**تاریخ انتشار:** 02/16/2022
+**تاریخ انتشار:** 03/03/2022
 
 ## نکات مهم:
 ■ دیتابیس اولیه این لغت نامه، از منبع MHM Advance English-Persian Dictionary بوده که به رایگان در اینرنت قابل دسترسی است.
