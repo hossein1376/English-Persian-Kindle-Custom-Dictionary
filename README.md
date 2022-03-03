@@ -78,14 +78,10 @@ Download Notepad++ (Suggested for editing the files and codes) from: https://not
 This project and all of its dictionaries are Free and will remain so forever. However, cleaning up the sources and building each dictionary has taken a lot out of me. Furthermore, improving each dictionary and adding new lamguages will consume even more of my time and energy. If you're intrested in sponsering this project and me, here you can find my cryptocurrency wallet addressees. Cheers!
 
 
-USDT: ![USDT](https://raw.githubusercontent.com/hossein1376/English-Persian-Kindle-Custom-Dictionary/main/.github/litecoin.png)
-TZHRrzHVPh7F7DhAvHtYHXbMidUZtiUg5R
+USDT: TGzLpgroERRLGrxJLLffV4XHcNw9rKxL1F
 
-Bitcoin: ![BitCoin](https://raw.githubusercontent.com/hossein1376/English-Persian-Kindle-Custom-Dictionary/main/.github/bitcoin.png)
-bc1q4tcp6vfw3wup344725aft46w6sulrw3pp2nl2d
+Bitcoin: bc1q4tcp6vfw3wup344725aft46w6sulrw3pp2nl2d
 
-LiteCoin: ![LiteCoin](https://raw.githubusercontent.com/hossein1376/English-Persian-Kindle-Custom-Dictionary/main/.github/usdt.png)
-LScshkcjxsj5JvoaNesSqgdN4QBjsmqq2o
+LiteCoin: LScshkcjxsj5JvoaNesSqgdN4QBjsmqq2o
 
-Ethereum: ![Ethereum](https://raw.githubusercontent.com/hossein1376/English-Persian-Kindle-Custom-Dictionary/main/.github/ethereum.png)
-0xcdcb6607f9e91117c6e9fc7fb110e9be21cef48c
+Ethereum: 0x52297a72f9289defbb72bffa11777976b9f1b429
