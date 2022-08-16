@@ -4,12 +4,8 @@
 Plus, here you can find the source files and a detailed guide to make any custom dictionary for yourself. 
 In order to make a custom dictionary, download the .src folder content. I've added some insights and tips as in 'comments'. Feel free to ask any questions you may have.
 
-As of now (version 2.3 update), I have written a script for automating the data preparation task.
+I have a sub-project that automates the data preparation task for Kindle dictionaries. Here you can find it: [Kindle Custom Dictionary Scripts](https://github.com/hossein1376/Kindle-Custom-Dictionary-Scripts).
  
-Download the [Kindle Previewer](https://www.amazon.com/Kindle-Previewer/b?ie=UTF8&node=21381691011)  
-Download [Notepad++](https://notepad-plus-plus.org/downloads). It's suggested for editing the files and codes
- 
-
 # دیکشنری انگلیسی به فارسی برای کتاب خوان های آمازون کیندل
 
 **۱۵۰ هزار کلمه و اصطلاح**
