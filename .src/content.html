@@ -1,26 +1,24 @@
-<html xmlns:math="http://exslt.org/math" xmlns:svg="http://www.w3.org/2000/svg"
-      xmlns:tl="https://kindlegen.s3.amazonaws.com/AmazonKindlePublishingGuidelines.pdf"
-      xmlns:saxon="http://saxon.sf.net/" xmlns:xs="http://www.w3.org/2001/XMLSchema"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:cx="https://kindlegen.s3.amazonaws.com/AmazonKindlePublishingGuidelines.pdf"
-      xmlns:dc="http://purl.org/dc/elements/1.1/"
-      xmlns:mbp="https://kindlegen.s3.amazonaws.com/AmazonKindlePublishingGuidelines.pdf"
-      xmlns:mmc="https://kindlegen.s3.amazonaws.com/AmazonKindlePublishingGuidelines.pdf"
-      xmlns:idx="https://kindlegen.s3.amazonaws.com/AmazonKindlePublishingGuidelines.pdf">
-	  
-  <head>
-     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  </head>
+<html
+        xmlns:idx="https://kindlegen.s3.amazonaws.com/AmazonKindlePublishingGuidelines.pdf"
+        xmlns:mbp="https://kindlegen.s3.amazonaws.com/AmazonKindlePublishingGuidelines.pdf">
 
-  <body> <!-- This is where we put the words. Replace the values which are marked with a * before and after them! -->
-    <mbp:frameset>
-     <idx:entry name="default" scriptable="yes" spell="yes"> 
-     <idx:orth value="*Word*"><b>*Word*</b>  <!-- The word itself -->
-     <idx:infl><idx:iform value="*First Inflection*" /><idx:iform value="*Second Inflection*" /></idx:infl></idx:orth>  <!-- Its inflection -->
-     <p> *Definition* </p></idx:entry>  <!-- The definition -->
- 
-     <!-- Follow the same style for all of your words.
-     Note that the idx:entry name (which is named "default" here), must have been stated exactly the same in the .opf file -->
-  </mbp:frameset>
-  </body>
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+</head>
+
+<body> <!-- This is where we put the words. Replace the values which are marked with a * before and after them! -->
+<mbp:frameset>
+    <idx:entry name="default" scriptable="yes" spell="yes">
+        <idx:orth value="*Word*"><b>*Word*</b>  <!-- The word itself -->
+            <idx:infl>
+                <idx:iform value="*First Inflection*"/>
+                <idx:iform value="*Second Inflection*"/>
+            </idx:infl>
+        </idx:orth>  <!-- Its inflection -->
+        <p> *Definition* </p></idx:entry>  <!-- The definition -->
+
+    <!-- Follow the same style for all of your words.
+    Note that the idx:entry name (which is named "default" here), must have been stated exactly the same in the .opf file -->
+</mbp:frameset>
+</body>
 </html>
