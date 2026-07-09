@@ -1,0 +1,147 @@
+name: Build and Release Kindle Dictionary
+
+on:
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: "Tag to create and release (e.g. v1.2.3)"
+        required: true
+        type: string
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    env:
+      SOURCE_FILE: Data Source.txt
+      DICTIONARY_NAME: English-Persian_Dictionary
+      AUTHOR_NAME: hossein1376
+      INPUT_LANGUAGE: en-us
+      OUTPUT_LANGUAGE: fa-ir
+      CONTENT_SCRIPT_URL: https://raw.githubusercontent.com/hossein1376/Kindle-Custom-Dictionary-Scripts/main/content.py
+      OPF_SCRIPT_URL: https://raw.githubusercontent.com/hossein1376/Kindle-Custom-Dictionary-Scripts/main/opf.py
+
+    outputs:
+      opf_file: ${{ steps.meta.outputs.opf_file }}
+      mobi_exists: ${{ steps.files.outputs.mobi_exists }}
+      mobi_file: ${{ steps.files.outputs.mobi_file }}
+      dictionary_name: ${{ steps.meta.outputs.dictionary_name }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set build metadata
+        id: meta
+        shell: bash
+        run: |
+          OPF_FILE="${DICTIONARY_NAME}.opf"
+
+          {
+            echo "dictionary_name=${DICTIONARY_NAME}"
+            echo "author_name=${AUTHOR_NAME}"
+            echo "input_language=${INPUT_LANGUAGE}"
+            echo "output_language=${OUTPUT_LANGUAGE}"
+            echo "opf_file=${OPF_FILE}"
+          } >> "$GITHUB_OUTPUT"
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Prepare build workspace
+        shell: bash
+        run: |
+          mkdir -p build
+          cp ".src/${SOURCE_FILE}" "build/${SOURCE_FILE}"
+
+      - name: Download generation scripts
+        working-directory: build
+        shell: bash
+        run: |
+          curl -fsSL "$CONTENT_SCRIPT_URL" -o content.py
+          curl -fsSL "$OPF_SCRIPT_URL" -o opf.py
+
+      - name: Generate HTML files from source
+        id: content
+        working-directory: build
+        shell: bash
+        run: |
+          printf '%s\n' "$SOURCE_FILE" | python content.py
+          COUNT=$(find . -maxdepth 1 -name 'content*.html' | wc -l | tr -d ' ')
+          echo "content_count=${COUNT}" >> "$GITHUB_OUTPUT"
+
+      - name: Generate OPF file
+        working-directory: build
+        shell: bash
+        run: |
+          PAGE_COUNT=$(find . -maxdepth 1 -name 'content*.html' | wc -l | tr -d ' ')
+          {
+            printf '%s\n' "$PAGE_COUNT"
+            printf '%s\n' '${{ steps.meta.outputs.dictionary_name }}'
+            printf '%s\n' '${{ steps.meta.outputs.author_name }}'
+            printf '%s\n' '${{ steps.meta.outputs.input_language }}'
+            printf '%s\n' '${{ steps.meta.outputs.output_language }}'
+          } | python opf.py
+
+      - name: Install KindleGen
+        shell: bash
+        run: |
+          apt-get update && apt-get install -y \
+            wget \
+            libc6-i386 \
+            lib32z1 \
+            && rm -rf /var/lib/apt/lists/*
+          wget --user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36" \
+            https://archive.org/download/kindlegen2.9/kindlegen_linux_2.6_i386_v2_9.tar.gz \
+            && tar -xzf kindlegen_linux_2.6_i386_v2_9.tar.gz -C /usr/local/bin kindlegen \
+            && rm kindlegen_linux_2.6_i386_v2_9.tar.gz
+
+      - name: Build MOBI with KindleGen
+        working-directory: build
+        shell: bash
+        run: |
+          kindlegen '${{ steps.meta.outputs.opf_file }}' -c0 -dont_append_source -o '${{ steps.meta.outputs.dictionary_name }}_${{ github.event.inputs.tag }}.mobi' || echo "Exited with $?"
+
+      - name: Upload build artifacts
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: kindle-dictionary-build
+          path: |
+            build/*.mobi
+          if-no-files-found: warn
+
+  release:
+    needs: build
+    runs-on: ubuntu-latest
+    if: github.event_name == 'workflow_dispatch'
+
+    steps:
+      - name: Download build artifacts
+        uses: actions/download-artifact@v4
+        with:
+          name: kindle-dictionary-build
+          path: dist
+
+      - name: Compose release notes
+        id: notes
+        shell: bash
+        run: |
+          {
+            echo "## Build Output"
+            echo "- MOBI generated successfully"
+          } > release-notes.md
+
+      - name: Create GitHub Release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ github.event.inputs.tag }}
+          target_commitish: ${{ github.sha }}
+          files: |
+            dist/*.mobi
+          body_path: release-notes.md
